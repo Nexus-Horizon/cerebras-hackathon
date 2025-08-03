@@ -1,0 +1,501 @@
+[
+  {
+    "timestamp": "2025-08-02T12:34:56",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 0.43,
+    "result": "STOP"
+  },
+  {
+    "timestamp": "2025-08-02T12:35:10",
+    "task": "Captioning",
+    "model": "BLIP",
+    "latency": 0.75,
+    "result": "A red car on the road"
+  },
+  {
+    "timestamp": "2025-08-03T02:36:41.923526",
+    "task": "Image Captioning",
+    "model": "pytesseract",
+    "latency": 0.69,
+    "result": "A man riding a bike."
+  },
+  {
+    "timestamp": "2025-08-03T03:04:54.215477",
+    "task": "Visual QA",
+    "model": "pytesseract",
+    "latency": 0.49,
+    "result": "This requires VQA model"
+  },
+  {
+    "timestamp": "2025-08-03T03:12:51.542433",
+    "task": "Visual QA",
+    "model": "pytesseract",
+    "latency": 0.49,
+    "result": "This requires VQA model"
+  },
+  {
+    "id": "2257bb45-3a33-4ddb-8f81-8904cf21dcca",
+    "timestamp": "2025-08-03T03:37:23.082190",
+    "task": "Visual QA",
+    "model": "pytesseract",
+    "latency": 0.49,
+    "result": "This requires VQA model"
+  },
+  {
+    "id": "bcac8120-840f-43e9-a636-2ac42426f891",
+    "timestamp": "2025-08-03T03:49:55.330804",
+    "task": "Visual QA",
+    "model": "pytesseract",
+    "latency": 0.6,
+    "result": "This requires VQA model"
+  },
+  {
+    "id": "fa6375e0-800f-498a-8571-4904517ba353",
+    "timestamp": "2025-08-03T03:51:42.872503",
+    "task": "Visual QA",
+    "model": "pytesseract",
+    "latency": 0.6,
+    "result": "This requires VQA model"
+  },
+  {
+    "id": "60778bf3-64b0-4967-8abb-61d02e944db1",
+    "timestamp": "2025-08-03T03:56:27.395773",
+    "task": "Visual QA",
+    "model": "pytesseract",
+    "latency": 0.48,
+    "result": "This requires VQA model"
+  },
+  {
+    "id": "eafbe0a5-2b6e-4074-a560-ef5028c82110",
+    "timestamp": "2025-08-03T04:14:03.725442",
+    "task": "Visual QA",
+    "model": "pytesseract",
+    "latency": 0.48,
+    "result": "This requires VQA model"
+  },
+  {
+    "id": "157dc05d-feaa-4d49-a0d4-ece3ef7be109",
+    "timestamp": "2025-08-03T04:17:18.818952",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 0.48,
+    "result": "Task not supported yet"
+  },
+  {
+    "id": "c278dc73-e1dd-416a-a7a0-dae82b9f7160",
+    "timestamp": "2025-08-03T05:24:20.963536",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 32.56,
+    "result": "Task not supported yet"
+  },
+  {
+    "id": "9ea2e094-9d86-4a89-9ec5-1aa86980a1df",
+    "timestamp": "2025-08-03T05:26:45.710827",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 32.58,
+    "result": "Task not supported yet"
+  },
+  {
+    "id": "934a7a18-0722-4d4c-a9a7-4f7cd4a03564",
+    "timestamp": "2025-08-03T05:46:27.878479",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 32.64,
+    "result": "Task not supported yet"
+  },
+  {
+    "id": "7b2359e1-d1a3-4d9d-9700-6502277f8bee",
+    "timestamp": "2025-08-03T05:49:46.864321",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 32.64,
+    "result": "Task not supported yet"
+  },
+  {
+    "id": "de99b7c0-e996-4997-a466-78605f5694fb",
+    "timestamp": "2025-08-03T05:51:28.824903",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 32.53,
+    "result": "Task not supported yet"
+  },
+  {
+    "id": "02c24161-ec68-463f-a2c4-4d8f62cbeb47",
+    "timestamp": "2025-08-03T05:57:14.354707",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 33.03,
+    "result": "Task not supported yet"
+  },
+  {
+    "id": "7a8f0303-d12c-4934-afea-3d7d584e37e9",
+    "timestamp": "2025-08-03T06:03:29.584090",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 33.07,
+    "result": "Task not supported yet"
+  },
+  {
+    "id": "377b8a75-8d91-43bb-8d42-c178565ef850",
+    "timestamp": "2025-08-03T06:09:16.411749",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 33.31,
+    "result": "Task not supported yet"
+  },
+  {
+    "id": "6f0f52ed-0ea9-4e02-88a6-1794b74a3172",
+    "timestamp": "2025-08-03T06:15:32.527369",
+    "task": "Object Detection",
+    "model": "pytesseract",
+    "latency": 4.5,
+    "result": "Task not supported yet"
+  },
+  {
+    "id": "3836390b-4b3d-4dea-9af0-c25b72057e38",
+    "timestamp": "2025-08-03T06:37:13.920385",
+    "task": "Object Detection",
+    "model": "pytesseract",
+    "latency": 4.58,
+    "result": "Task not supported"
+  },
+  {
+    "id": "c6753fe7-ea83-42b2-b83f-2becb6eb4b5f",
+    "timestamp": "2025-08-03T06:39:40.467640",
+    "task": "Object Detection",
+    "model": "pytesseract",
+    "latency": 3.96,
+    "result": "Task not supported"
+  },
+  {
+    "id": "6e54f4ea-a823-4c3c-91f2-5ccd04c7a9c6",
+    "timestamp": "2025-08-03T08:13:46.686246",
+    "task": "Object Detection",
+    "model": "pytesseract",
+    "latency": 239.71,
+    "result": "Task not supported"
+  },
+  {
+    "id": "d500ed56-37dc-4634-8f3f-bf94c4507cab",
+    "timestamp": "2025-08-03T08:18:09.530968",
+    "task": "Object Detection",
+    "model": "pytesseract",
+    "latency": 12.24,
+    "result": "Task not supported"
+  },
+  {
+    "id": "2d0d4d80-a6dd-4e3d-974b-fef4142d3016",
+    "timestamp": "2025-08-03T08:20:11.963259",
+    "task": "Object Detection",
+    "model": "pytesseract",
+    "latency": 9.33,
+    "result": "Task not supported"
+  },
+  {
+    "id": "6ff7d378-3cdc-43a7-bacd-dfe7cff22ce0",
+    "timestamp": "2025-08-03T08:21:36.617435",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 9.48,
+    "result": "Task not supported"
+  },
+  {
+    "id": "f342b748-848c-4342-bb5b-12b2d375f048",
+    "timestamp": "2025-08-03T08:22:21.356526",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 10.05,
+    "result": "Task not supported"
+  },
+  {
+    "id": "93519396-f87d-4a66-aa4c-4e890d9fa750",
+    "timestamp": "2025-08-03T08:32:33.172987",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 10.27,
+    "result": "Task not supported"
+  },
+  {
+    "id": "24be9d6e-91e3-44fc-8aec-d08544d3e3e1",
+    "timestamp": "2025-08-03T08:34:05.636708",
+    "task": "Other",
+    "model": "pytesseract",
+    "latency": 10.78,
+    "result": "Task not supported"
+  },
+  {
+    "id": "77c518ae-d247-4cbb-b808-4b8208032eff",
+    "timestamp": "2025-08-03T14:15:58.755117",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 11.27,
+    "result": "OCR failed: Unknown argument: use_gpu"
+  },
+  {
+    "id": "0935db62-de41-4ddb-800a-473d52a08083",
+    "timestamp": "2025-08-03T14:20:00.104521",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 9.51,
+    "result": "OCR failed: Unknown argument: use_gpu"
+  },
+  {
+    "id": "1eea0d80-78ac-4294-91ca-2485de33c222",
+    "timestamp": "2025-08-03T14:32:32.433018",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 10.89,
+    "result": "Simple OCR failed: Unknown argument: use_gpu"
+  },
+  {
+    "id": "320e2589-0d7d-4f98-9553-63c48f184be0",
+    "timestamp": "2025-08-03T15:00:53.206206",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 64.71,
+    "result": "OCR failed: PaddleOCR.predict() got an unexpected keyword argument 'cls'"
+  },
+  {
+    "id": "17f25624-a232-4a1d-b0c6-30d7a50fc890",
+    "timestamp": "2025-08-03T15:02:58.724939",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 9.26,
+    "result": "Simple OCR failed: Unknown argument: use_gpu"
+  },
+  {
+    "id": "987db17f-a50d-48fd-8b06-eba2b249f726",
+    "timestamp": "2025-08-03T15:04:16.830925",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 22.15,
+    "result": "n\na\no\nt\no\ne\ne\ne\ne\ne\ne\ni\ne\ne"
+  },
+  {
+    "id": "4e4505c5-475a-457c-b39c-07740fe3a486",
+    "timestamp": "2025-08-03T15:11:36.446031",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 17.6,
+    "result": "Simple OCR failed: string index out of range"
+  },
+  {
+    "id": "e52da233-d435-4380-93f3-0cee66392865",
+    "timestamp": "2025-08-03T15:16:09.101644",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 18.55,
+    "result": "naotoeeeeeeiee"
+  },
+  {
+    "id": "60a1840e-6358-48e3-874c-0b4e68d378de",
+    "timestamp": "2025-08-03T15:17:08.964235",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 21.37,
+    "result": "naotoeeeeeeiee"
+  },
+  {
+    "id": "fce07874-d6ca-4067-966d-c6dc345442a7",
+    "timestamp": "2025-08-03T15:32:51.405969",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 19.03,
+    "result": "No text found in image"
+  },
+  {
+    "id": "dd3bede9-053d-4da7-ba48-3b9d53352abd",
+    "timestamp": "2025-08-03T15:36:27.104113",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 19.43,
+    "result": "No text found in image"
+  },
+  {
+    "id": "f9feda72-0f89-4825-beac-b7ccd3ca12c9",
+    "timestamp": "2025-08-03T16:03:35.532361",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 25.8,
+    "result": "naotoeeeeeeiee"
+  },
+  {
+    "id": "8cb3ea13-119e-4627-81b2-42dac3db32d8",
+    "timestamp": "2025-08-03T16:31:08.774672",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 28.11,
+    "result": "naotoeeeeeeiee"
+  },
+  {
+    "id": "48eaefb4-ce90-4c58-a1f8-7d5ac624e68d",
+    "timestamp": "2025-08-03T16:55:54.774679",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 25.5,
+    "result": "No text found in image"
+  },
+  {
+    "id": "50b8beff-d020-4224-9a75-b4fe93fc3eb0",
+    "timestamp": "2025-08-03T16:58:52.827043",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 22.68,
+    "result": "naotoeeeeeeiee"
+  },
+  {
+    "id": "7798526a-10b6-4eb9-8902-f561f3652007",
+    "timestamp": "2025-08-03T17:04:09.751316",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 22.71,
+    "result": "No text found in image"
+  },
+  {
+    "id": "7d8be4ca-6c48-404f-a274-f51655ff3956",
+    "timestamp": "2025-08-03T17:08:07.434961",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 25.97,
+    "result": "No text found in image"
+  },
+  {
+    "id": "d9e26620-4597-4d3c-8904-47fc78129fc1",
+    "timestamp": "2025-08-03T19:33:36.795721",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 22.86,
+    "result": "naotoeeeeeeiee"
+  },
+  {
+    "id": "bf0cc5c9-29cc-4b15-8910-e0ec38e97d84",
+    "timestamp": "2025-08-03T19:47:09.747778",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 21.61,
+    "result": "naotoeeeeeeiee"
+  },
+  {
+    "id": "23b86ab8-e6b2-4efd-af2b-65d3373e678d",
+    "timestamp": "2025-08-03T19:51:19.102394",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 20.71,
+    "result": "No text found in image"
+  },
+  {
+    "id": "7ada2643-3b42-4dd8-9b6c-95afcdd89598",
+    "timestamp": "2025-08-03T19:57:31.968392",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 20.59,
+    "result": "naotoeeeeeeiee"
+  },
+  {
+    "id": "906e1472-b0f9-4162-8e1e-8be11c7f6b6b",
+    "timestamp": "2025-08-03T20:23:50.543233",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 22.65,
+    "result": "naotoeeeeeeiee"
+  },
+  {
+    "id": "2f23c190-ebeb-455f-8e4d-cf1e8bcb954a",
+    "timestamp": "2025-08-03T20:32:37.558183",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 22.91,
+    "result": "naotoeeeeeeiee"
+  },
+  {
+    "id": "c044f724-fcd0-47d8-a78c-51d0732b622e",
+    "timestamp": "2025-08-03T20:41:25.898077",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 68.41,
+    "result": "OCR failed: Unknown exception"
+  },
+  {
+    "id": "e4b3b056-7fbb-4d31-bd1d-1d51bcaae0fa",
+    "timestamp": "2025-08-03T21:04:02.788989",
+    "task": "OCR",
+    "model": "PaddleOCR",
+    "latency": 23.07,
+    "result": "naotoeeeeeeiee"
+  },
+  {
+    "id": "608e020d-f07e-4c5f-b848-78d48442b2d5",
+    "timestamp": "2025-08-03T21:14:56.692297",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 22.33,
+    "result": "No text found in image"
+  },
+  {
+    "id": "682762a3-5d6f-4aef-ae12-2b5965d4958a",
+    "timestamp": "2025-08-03T21:42:04.045385",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 22.41,
+    "result": "No text found in image"
+  },
+  {
+    "id": "4f97686e-bece-4f54-8c93-7b69d0a5163f",
+    "timestamp": "2025-08-03T21:43:32.771000",
+    "task": "OCR",
+    "model": "pytesseract",
+    "latency": 67.5,
+    "result": "No text detected in image"
+  },
+  {
+    "id": "e61ecd9c-a517-4083-806d-dde0b118661a",
+    "timestamp": "2025-08-03T21:44:16.399643",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 20.14,
+    "result": "No text found in image"
+  },
+  {
+    "id": "33a3340f-ad40-42f2-9c28-f7471add9aa2",
+    "timestamp": "2025-08-03T21:48:48.131124",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 20.66,
+    "result": "No text found in image"
+  },
+  {
+    "id": "41da277e-0eff-463a-83e9-fd854db78107",
+    "timestamp": "2025-08-03T21:52:28.102203",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 20.5,
+    "result": "No text found in image"
+  },
+  {
+    "id": "d8b900d5-bfdf-4e3b-a1db-07a64ac73a6d",
+    "timestamp": "2025-08-03T22:20:44.751288",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 20.29,
+    "result": "No text found in image"
+  },
+  {
+    "id": "3bf41b0e-f275-44c6-a49f-1ed1899bc1aa",
+    "timestamp": "2025-08-03T22:23:48.040660",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 16.92,
+    "result": "No text found in image"
+  },
+  {
+    "id": "9c46a1e5-1b0f-442e-964b-ba8aa8dfeb90",
+    "timestamp": "2025-08-03T22:25:28.669257",
+    "task": "OCR",
+    "model": "simocr",
+    "latency": 17.39,
+    "result": "No text found in image"
+  }
+]
